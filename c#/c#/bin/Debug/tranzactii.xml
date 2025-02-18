@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tranzactii>
+  <Tranzactie>
+    <TipTranzactie>Cumpărare</TipTranzactie>
+    <NumeFirma>daniela</NumeFirma>
+    <Cantitate>11</Cantitate>
+    <Pret>110000</Pret>
+    <Data>5/23/2024 12:24:22 AM</Data>
+  </Tranzactie>
+</Tranzactii>
